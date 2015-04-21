@@ -1,0 +1,7 @@
+G:\lxj\excercise\testLXJ\testLXJ\bin\testLXJ.dll
+G:\lxj\excercise\testLXJ\testLXJ\bin\testLXJ.pdb
+G:\lxj\excercise\testLXJ\testLXJ\obj\Debug\testLXJ.dll
+G:\lxj\excercise\testLXJ\testLXJ\obj\Debug\testLXJ.pdb
+G:\lxj\excercise\testLXJ\testLXJ\bin\test.DAL.dll
+G:\lxj\excercise\testLXJ\testLXJ\bin\test.DAL.pdb
+G:\lxj\excercise\testLXJ\testLXJ\obj\Debug\testLXJ.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+G:\lxj\excercise\testLXJ\test.MODEL\bin\Debug\test.MODEL.dll
+G:\lxj\excercise\testLXJ\test.MODEL\bin\Debug\test.MODEL.pdb
+G:\lxj\excercise\testLXJ\test.MODEL\obj\Debug\test.MODEL.dll
+G:\lxj\excercise\testLXJ\test.MODEL\obj\Debug\test.MODEL.pdb
+G:\lxj\excercise\testWeb\test.MODEL\bin\Debug\test.MODEL.dll
+G:\lxj\excercise\testWeb\test.MODEL\bin\Debug\test.MODEL.pdb
+G:\lxj\excercise\testWeb\test.MODEL\obj\Debug\test.MODEL.dll
+G:\lxj\excercise\testWeb\test.MODEL\obj\Debug\test.MODEL.pdb

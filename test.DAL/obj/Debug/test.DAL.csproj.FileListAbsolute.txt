@@ -1,0 +1,8 @@
+G:\lxj\excercise\testLXJ\test.DAL\bin\Debug\test.DAL.dll
+G:\lxj\excercise\testLXJ\test.DAL\bin\Debug\test.DAL.pdb
+G:\lxj\excercise\testLXJ\test.DAL\obj\Debug\test.DAL.dll
+G:\lxj\excercise\testLXJ\test.DAL\obj\Debug\test.DAL.pdb
+G:\lxj\excercise\testWeb\test.DAL\bin\Debug\test.DAL.dll
+G:\lxj\excercise\testWeb\test.DAL\bin\Debug\test.DAL.pdb
+G:\lxj\excercise\testWeb\test.DAL\obj\Debug\test.DAL.dll
+G:\lxj\excercise\testWeb\test.DAL\obj\Debug\test.DAL.pdb
